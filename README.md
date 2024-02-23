@@ -6,4 +6,4 @@
 # long time no update
 # great day for AI
 # openAI SUPER
-# Sora
+# Sora ok
