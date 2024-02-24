@@ -7,3 +7,4 @@
 # great day for AI
 # openAI SUPER
 # Sora ok
+# sln only 30, bad behavior
