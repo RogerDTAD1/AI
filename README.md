@@ -9,3 +9,4 @@
 # Sora ok
 # sln only 30, bad behavior
 # og or go
+# relaxe
